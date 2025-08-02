@@ -1,4 +1,4 @@
-# Coffee Machine Simulator
+# ☕️ Coffee Machine Simulator
 
 This project simulates a basic coffee vending machine using Python. Users can interact with the machine through the terminal to:
 
@@ -55,6 +55,9 @@ python coffee_machine.py
 ```
 
 ## 📁 File Structure
-•	coffee_machine.py: main program file
-•	README.md: project description and usage
-•	requirements.txt: dependencies
+```bash
+coffee_machine_python/
+├── coffee_machine.py    # Main program file
+├── README.md            # Project documentation
+├── requirements.txt     # Requirements
+```
